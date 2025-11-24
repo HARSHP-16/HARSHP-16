@@ -15,7 +15,7 @@ Currently focusing on:
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/harsh-palkrutwar-893810322)
+- [LinkedIn](https://www.linkedin.com/in/harsh-palkrutwar/)
 
 ## 📈 GitHub Stats
 

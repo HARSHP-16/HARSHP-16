@@ -19,14 +19,12 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🎓 **B.E. Computer Engineering** @ **I²IT, Hinjewadi, Pune**
 - 🔭 Building: **AI/ML apps + Full Stack Web projects**
-- 🌱 Learning: **DSA · System Design · AWS · Cloud Infra**
+- 🌱 Learning: **DSA · AWS · Cloud Infra**
 - 🏆 **SIH 2025** Hackathon Participant (Team Lead)
-- 🌐 **GSSoC** Open Source Contributor (AI Agents Track)
+- 🌐 **GSSoC** Open Source Contributor (Open Source / AI Agents Track)
 - ☁️ **AWS Cloud Club** Web Dev Team Member
 - 🧠 **AICTE Virtual Intern** @ Edunet Foundation + Shell
-- 💬 Ask me about: `Python` `Flask` `ML` `Docker`
 - 📫 Reach me: **[LinkedIn](https://www.linkedin.com/in/harsh-palkrutwar/)**
 
 <br clear="right"/>
@@ -137,15 +135,15 @@
 
 **Frameworks & Libraries**
 
-<img src="https://skillicons.dev/icons?i=flask,tailwind,sklearn" />
+<img src="https://skillicons.dev/icons?i=flask,sklearn" />
 
 **Databases & Cloud**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,aws" />
+<img src="https://skillicons.dev/icons?i=mysql,docker,aws" />
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 
 </p>
 
@@ -199,15 +197,6 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/HARSHP-16/HARSHP-16/output/snake.svg" alt="snake animation" />
-</p>
-
----
-
-<!-- ==================== QUOTE ==================== -->
-## 💬 Dev Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---

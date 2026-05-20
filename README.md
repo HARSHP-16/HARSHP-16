@@ -22,7 +22,7 @@
 - 🔭 Building: **AI/ML apps + Full Stack Web projects**
 - 🌱 Learning: **DSA · AWS · Cloud Infra**
 - 🏆 **SIH 2025** Hackathon Participant (Team Lead)
-- 🌐 **GSSoC** Open Source Contributor (Open Source / AI Agents Track) · **Profile:** https://gssoc.girlscript.org/profile/c9daf151-fb9f-4fff-a7af-8fbfb4424acf
+- 🌐 **GSSoC** Open Source Contributor (Open Source / AI Agents Track) · **[GSSoC Profile:](https://gssoc.girlscript.org/profile/c9daf151-fb9f-4fff-a7af-8fbfb4424acf)
 - ☁️ **AWS Cloud Club** Web Dev Team Member
 - 🧠 **AICTE Virtual Intern** @ Edunet Foundation + Shell
 - 📫 Reach me: **[LinkedIn](https://www.linkedin.com/in/harsh-palkrutwar/)**
@@ -39,7 +39,7 @@
     <td width="50px" align="center">🔶</td>
     <td>
       <strong>Open Source Contributor — AI Agents & Open Source Track</strong><br/>
-      <a href="https://gssoc.girlscript.tech/">GirlScript Summer of Code (GSSoC)</a> · <em>May 2026 – Present</em><br/>
+      <a href="https://gssoc.girlscript.org/profile/c9daf151-fb9f-4fff-a7af-8fbfb4424acf">GirlScript Summer of Code (GSSoC)</a> · <em>May 2026 – Present</em><br/>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
       <img src="https://img.shields.io/badge/Open%20Source-3DA639?style=flat-square&logo=opensourceinitiative&logoColor=white"/>

@@ -1,5 +1,5 @@
 <!-- ==================== HEADER ==================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Harsh%20Palkrutwar&fontSize=50&fontColor=fff&animation=twinkling&fo[...]
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Harsh%20Palkrutwar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20Developer%20%7C%20AI%2FML%20Explorer%20%7C%20Open%20Source%20Contributor&descAlignY=58&descSize=18" width="100%"/>
 
 <!-- ==================== TYPING + BADGES ==================== -->
 <p align="center">

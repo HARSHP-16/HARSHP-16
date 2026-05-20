@@ -1,9 +1,9 @@
 <!-- ==================== HEADER ==================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Harsh%20Palkrutwar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20Developer%20%7C%20AI%2FML%20Explorer%20%7C%20Open%20Source%20Contributor&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Harsh%20Palkrutwar&fontSize=50&fontColor=fff&animation=twinkling&fo[...]
 
 <!-- ==================== TYPING + BADGES ==================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=60&lines=Building+Real+World+Projects+%F0%9F%9A%80;SIH+2025+Hackathon+%7C+Team+Lead+%F0%9F%8F%86;GSSoC+Open+Source+Contributor+%F0%9F%8C%90;AI%2FML+%2B+Full+Stack+Developer+%F0%9F%A4%96;Always+Learning+New+Things...+%E2%9C%A8" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=60&lines=Building+Real+World+Projects+%F0%9F%9A%80;SIH+[...]
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 - 🔭 Building: **AI/ML apps + Full Stack Web projects**
 - 🌱 Learning: **DSA · AWS · Cloud Infra**
 - 🏆 **SIH 2025** Hackathon Participant (Team Lead)
-- 🌐 **GSSoC** Open Source Contributor (Open Source / AI Agents Track)
+- 🌐 **GSSoC** Open Source Contributor (Open Source / AI Agents Track) · **Profile:** https://gssoc.girlscript.org/profile/c9daf151-fb9f-4fff-a7af-8fbfb4424acf
 - ☁️ **AWS Cloud Club** Web Dev Team Member
 - 🧠 **AICTE Virtual Intern** @ Edunet Foundation + Shell
 - 📫 Reach me: **[LinkedIn](https://www.linkedin.com/in/harsh-palkrutwar/)**

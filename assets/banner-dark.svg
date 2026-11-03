@@ -13,18 +13,5 @@
   </style>
   <text class="name a" x="40" y="88">Harsh Palkrutwar</text>
   <text class="role a b" x="40" y="126">Computer Engineering Student  ·  Backend &amp; AI Developer</text>
-  <path d="M40 190 H860" stroke="#30363D" stroke-width="1.5" fill="none" class="a c"/>
-  <g class="a c">
-    <circle class="n" cx="40" cy="190" r="7" fill="#0D1117" stroke="#7FA2FF" stroke-width="2"/>
-    <circle class="n n2" cx="313" cy="190" r="7" fill="#0D1117" stroke="#7FA2FF" stroke-width="2"/>
-    <circle class="n n3" cx="587" cy="190" r="7" fill="#0D1117" stroke="#7FA2FF" stroke-width="2"/>
-    <circle class="n n4" cx="860" cy="190" r="7" fill="#0D1117" stroke="#7FA2FF" stroke-width="2"/>
-    <text class="lbl" x="40" y="224">Document in</text>
-    <text class="lbl" x="313" y="224" text-anchor="middle">Extract</text>
-    <text class="lbl" x="587" y="224" text-anchor="middle">Verify</text>
-    <text class="lbl" x="860" y="224" text-anchor="end">Evidence out</text>
-  </g>
-  <circle r="4.5" fill="#7FA2FF">
-    <animateMotion dur="6s" repeatCount="indefinite" path="M40 190 H860"/>
-  </circle>
+  
 </svg>

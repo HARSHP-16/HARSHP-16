@@ -1,105 +1,62 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Harsh Palkrutwar — Computer Engineering Student, Backend and AI Developer" src="assets/banner-light.svg" width="100%">
+  <img alt="Harsh Palkrutwar, Computer Engineering Student, Backend and AI Developer" src="assets/banner-light.svg" width="100%">
 </picture>
 
-<p align="left">
-  I build backend systems that make sense of documents and data — from OCR pipelines to machine learning applications, brought to life through cloud deployment.
-</p>
+I build backend systems that make sense of documents and data, from OCR pipelines to machine learning applications, deployed on the cloud.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/harsh-palkrutwar-893810322/">
-    <img src="https://img.shields.io/badge/LinkedIn-2457F5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:palkrutwarharsh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-2457F5?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <!-- Add when your portfolio is live:
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-2457F5?style=flat-square&logo=safari&logoColor=white" alt="Portfolio">
-  </a>
-  -->
-</p>
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2457F5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-palkrutwar-893810322/)
+[![Email](https://img.shields.io/badge/Email-2457F5?style=flat-square&logo=gmail&logoColor=white)](mailto:palkrutwarharsh@gmail.com)
+<!-- Add when live: [![Portfolio](https://img.shields.io/badge/Portfolio-2457F5?style=flat-square&logo=safari&logoColor=white)](YOUR_PORTFOLIO_URL) -->
 
 ## About
 
-Computer Engineering student at I²IT, Pune, interested in building practical software and understanding how systems work beneath the surface.
+Computer Engineering student at I²IT, Pune. I like understanding how systems work beneath the surface and turning that into software people actually use.
 
-My interests span backend development, AI/ML applications, document processing, and cloud technologies. I enjoy turning ideas into useful applications while continuously improving my engineering fundamentals.
+Currently strengthening my fundamentals: data structures and algorithms, Java with Spring Boot, and backend architecture.
 
-Currently focused on **Data Structures & Algorithms, Java with Spring Boot, and backend architecture.**
-
----
-
-## Selected Work
+## Selected work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/HARSHP-16/gem-bid-verification-platform">GeM Bid Compliance Platform ↗</a>
+**[GeM Bid Compliance Platform](https://github.com/HARSHP-16/gem-bid-verification-platform)**
+<br><sub>Smart India Hackathon 2026 · In progress</sub>
 
-<sub>Smart India Hackathon 2026 · In progress</sub>
+Automates compliance checking of GeM bid documents with OCR, API-based verification, and structured evidence tracking.
 
-A platform designed to automate GeM bid document compliance verification.
-
-**Highlights**
-- Document processing and OCR
-- API-based verification
-- Structured evidence tracking
-
-<sub>`Python` `PostgreSQL` `SQLAlchemy` `OCR` `REST APIs`</sub>
+<sub>`Python` `PostgreSQL` `SQLAlchemy` `OCR`</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/HARSHP-16/Metro-Operations-Platform">KMRL Document Intelligence ↗</a>
+**[KMRL Document Intelligence](https://github.com/HARSHP-16/Metro-Operations-Platform)**
+<br><sub>Smart India Hackathon 2025</sub>
 
-<sub>Smart India Hackathon 2025</sub>
-
-An AI-powered document intelligence and sharing platform for Kochi Metro Rail Limited.
-
-**Highlights**
-- Bilingual document summarization
-- OCR-based text extraction
-- Intelligent document search
+AI document platform for Kochi Metro Rail Limited with bilingual summarization, OCR, and intelligent search.
 
 <sub>`Python` `Flask` `PostgreSQL` `Gemini AI` `Azure`</sub>
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/HARSHP-16/quickdropfiles">QuickDropFiles ↗</a>
+**[QuickDropFiles](https://github.com/HARSHP-16/quickdropfiles)**
+<br><sub>Personal project</sub>
 
-<sub>Personal project</sub>
-
-A lightweight platform for sharing files and text through simple, shareable links.
-
-**Highlights**
-- File and text sharing
-- Link-based access
-- Cloud deployment
+Share a file or a piece of text with a single link.
 
 <sub>`Flask` `PostgreSQL` `Azure` `Vercel`</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/HARSHP-16/MediPredict-">MediPredict ↗</a>
+**[MediPredict](https://github.com/HARSHP-16/MediPredict-)**
+<br><sub>Machine learning</sub>
 
-<sub>Machine Learning · Web Application</sub>
-
-A diabetes risk prediction application with an integrated analytics dashboard.
-
-**Highlights**
-- Machine learning-based prediction
-- Web application development
-- Data-driven insights
+Predicts diabetes risk and presents results in an analytics dashboard.
 
 <sub>`Python` `Flask` `MySQL` `Scikit-learn` `Power BI`</sub>
 
@@ -122,7 +79,7 @@ A diabetes risk prediction application with an integrated analytics dashboard.
 <p>
   <img src="https://img.shields.io/badge/Flask-30363d?style=flat-square&logo=flask&logoColor=white" alt="Flask">
   <img src="https://img.shields.io/badge/Node.js-30363d?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/REST_APIs-30363d?style=flat-square&logo= fastapi&logoColor=white" alt="REST APIs">
+  
   <img src="https://img.shields.io/badge/PostgreSQL-30363d?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MySQL-30363d?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
 </p>

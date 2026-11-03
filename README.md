@@ -7,7 +7,7 @@ I build backend systems that make sense of documents and data, from OCR pipeline
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2457F5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-palkrutwar-893810322/)
 [![Email](https://img.shields.io/badge/Email-2457F5?style=flat-square&logo=gmail&logoColor=white)](mailto:palkrutwarharsh@gmail.com)
-<!-- Add when live: [![Portfolio](https://img.shields.io/badge/Portfolio-2457F5?style=flat-square&logo=safari&logoColor=white)](YOUR_PORTFOLIO_URL) -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-2457F5?style=flat-square&logo=safari&logoColor=white)](https://harshpalkrutwar.vercel.app/)
 
 ## About
 
